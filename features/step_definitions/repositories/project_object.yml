@@ -1,0 +1,34 @@
+# catch element
+
+  # Practices
+    button: { id: 'submit' }
+    textbox_gg: {name: 'q'}
+    dd: {id: 'dropdownMenuButton'}
+    dd_vl: {xpath: "//div[@class='dropdown-menu show']//a[@class='dropdown-item'][contains(text(),'Drag and Drop')]"}
+    ltt_sm_bt: {xpath: "//input[@class='form-submit']"}
+
+  # Add New Customer Guru99
+    anc_cname: {xpath: "//input[@name='name']"}
+    anc_gender: {xpath: "//tr[5]//td[2]//input[1]"}
+    anc_DoB: {xpath: "//input[@id='dob']"}
+    anc_adr: {xpath: "//textarea[@name='addr']"}
+    anc_city: {xpath: "//input[@name='city']"}
+    anc_state: {xpath: "//input[@name='state']"}
+    anc_pin: {xpath: "//input[@name='pinno']"}
+    anc_telephone: {xpath: "//input[@name='telephoneno']"}
+    anc_email: {xpath: "//input[@name='emailid']"}
+    anc_submit: {xpath: "//input[@name='sub']"}
+    anc_reset: {xpath: "//input[@name='res']"}
+
+    anc_cname_mess: {xpath: "//label[@id='message']"}
+    # anc_gender_mess: {xpath: "//label[@id='message1']"}
+    anc_DoB_mess: {xpath: "//label[@id='message2']"}
+    anc_adr_mess: {xpath: "//label[@id='message3']"}
+    anc_city_mess: {xpath: "//label[@id='message4']"}
+    anc_state_mess: {xpath: "//label[@id='message5']"}
+    anc_pin_mess: {xpath: "//label[@id='message6']"}
+    anc_telephone_mess: {xpath: "//label[@id='message7']"}
+    anc_email_mess: {xpath: "//label[@id='message8']"}
+       
+
+# value

@@ -1,0 +1,4 @@
+source 'http://rubygems.org'
+gem 'report_builder'
+gem 'itms_automation'
+gem 'eventmachine', '~> 1.0.0'

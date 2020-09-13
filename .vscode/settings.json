@@ -1,0 +1,17 @@
+{
+    "workbench.iconTheme": "vscode-icons",
+    "editor.quickSuggestions": true,
+    "window.zoomLevel": 0,
+    "gherkin-autocomplete.featuresPath": "itms_automation/features/",
+    "cucumberautocomplete.steps": [
+        // "itms_automation/features/step_definitions/itms/*.rb"
+        "C:/Users/thang/Desktop/Selenium/features/step_definitions/itms/*.rb",
+    ],
+    "cucumberautocomplete.syncfeatures": "itms_automation/features/cucumber_files/*feature",
+    "cucumberautocomplete.customParameters": [
+        
+    
+    ],
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+}
